@@ -1,9 +1,10 @@
 
 # 2-е тестовое задание на стажировку **React (TypeScript)**
+### Дата разработки: 2022г
 
 ---
 
-[<img src="https://i.ibb.co/6gdjYtT/image.png" alt="image" border="0">](https://kokojer.github.io/internship2/build/)
+[<img src="https://i.ibb.co/6gdjYtT/image.png" alt="image" border="0">](https://kokojer.github.io/internship-assignment-react-typescript/build/)
 
 Страница валидно отображается на последних версиях:
 - ✅ **Chrome**
